@@ -1,0 +1,7 @@
+{
+  "version": "0.1",
+  "name": "mensa-cli",
+  "bin": {
+    "mensa": "src/index.js"
+  }
+}
